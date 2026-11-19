@@ -9,7 +9,6 @@
 1. [Bacterial Staining Techniques (Simple, Negative, Gram, Endospore & Capsule) (BIO 202)](#1-bacterial-staining-techniques-simple-negative-gram-endospore--capsule-bio-202)
 2. [Pure Culture Isolation & Viable Enumeration Methods (BIO 202)](#2-pure-culture-isolation--viable-enumeration-methods-bio-202)
 3. [Biochemical Characterization & Presumptive Identification of Unknown Bacteria (BIO 202)](#3-biochemical-characterization--presumptive-identification-of-unknown-bacteria-bio-202)
-4. [Introductory Microbial Plating & Innate Lysozyme Antimicrobial Assay (BIO 103)](#4-introductory-microbial-plating--innate-lysozyme-antimicrobial-assay-bio-103)
 
 ---
 
