@@ -16,6 +16,8 @@
 
 ## 1. Bacterial Genomic DNA Isolation, Quantification & Purity Determination (BBT 312)
 
+![BBT 312: Molecular Biology Laboratory Workflow](BBT312%20-%20Molecular%20Biology%20Laboratory%20Workflow.jpg)
+
 ### Aim & Objectives
 * Isolate high-molecular-weight genomic DNA from overnight *Escherichia coli* culture free of proteins, RNA, and cellular debris for downstream PCR and restriction digestion.
 * Quantify dsDNA concentration and assess purity via UV-Vis spectrophotometry ($A_{260}/A_{280}$ and $A_{260}/A_{230}$ ratios).
@@ -69,6 +71,8 @@ Type II restriction endonucleases (*EcoRI*, *HindIII*) cleave palindromic dsDNA 
 
 ## 3. Plant Genomic DNA (CTAB) & Total RNA (TRIzol) Extraction (BBT 413)
 
+![BBT 413: Plant Biochemistry & Biotechnology Lab](BBT413%20-%20Plant%20Biochemistry%20%26%20Biotechnology%20Lab.jpg)
+
 ### Part A: Plant Genomic DNA Isolation (CTAB Method)
 * **Principle:** Cationic detergent CTAB solubilizes plant membranes and forms soluble complexes with DNA at high salt ($>0.7\ \text{M}$ NaCl), while insoluble polysaccharides and polyphenols are removed via chloroform:isoamyl alcohol (24:1) extraction in the presence of PVP and $\beta$-mercaptoethanol.
 * **Workflow:** Grind $100–200\ \text{mg}$ leaf tissue $\rightarrow$ lyse in $700\ \mu\text{L}$ pre-warmed ($65^\circ\text{C}$) $2\times$ CTAB buffer ($2\%$ CTAB, $100\ \text{mM}$ Tris-HCl pH 8.0, $20\ \text{mM}$ EDTA, $1.4\ \text{M}$ NaCl, $1\%$ PVP, $0.2\%$ $\beta$-ME) for 30–45 min $\rightarrow$ extract with equal volume chloroform:isoamyl alcohol (24:1) $\rightarrow$ treat aqueous phase with RNase A ($37^\circ\text{C}$, 20 min) $\rightarrow$ precipitate with $0.7\times$ ice-cold isopropanol, wash twice with 70% ethanol, and elute in TE buffer.
@@ -81,6 +85,8 @@ Type II restriction endonucleases (*EcoRI*, *HindIII*) cleave palindromic dsDNA 
 ---
 
 ## 4. Plasmid Isolation (pBR322 / pGLO) & Bacterial Transformation (BBT 415)
+
+![BBT 415: Molecular Biotechnology Laboratory](BBT415%20-%20Molecular%20Biotechnology%20Laboratory.jpg)
 
 ### Principle & Workflow
 * **Alkaline Lysis Plasmid Extraction:** Lysis of *E. coli* with SDS/NaOH ($\text{pH } 12.0–12.5$) followed by acidic potassium acetate ($\text{pH } 5.2$) neutralization precipitates high-molecular-weight chromosomal DNA while supercoiled **pBR322** ($\text{Amp}^R/\text{Tet}^R$) or **pGLO** ($\text{bla}/\text{Amp}^R$, *araC*, *GFP*) remains soluble.
