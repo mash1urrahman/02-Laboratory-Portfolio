@@ -90,9 +90,3 @@
 | ***Bacillus subtilis*** | Gram ($+$) endospore rod | $-$ | $-$ | $-$ | $+$ | $+$ | $+$ | var | $-$ |
 
 ---
-
-## 4. Introductory Microbial Plating & Innate Lysozyme Antimicrobial Assay (BIO 103)
-
-![BIO 103 Lab: Biology – 1 Laboratory Workflow](BIO103%20-%20Biology-1%20Laboratory%20Workflow_2.jpg)
-
-* **Principle & Procedure:** Human saliva and tears contain innate **lysozyme**, which hydrolyzes $\beta\text{-}(1,4)$-glycosidic bonds between NAM and NAG in bacterial peptidoglycan cell walls. Filter paper discs soaked in fresh saliva, tears, standard antibiotic positive control, and sterile saline negative control were placed on Nutrient Agar lawns of *Micrococcus luteus* / *Bacillus* sp. ($37^\circ\text{C}$, $24\ \text{hr}$) to measure clear zones of inhibition ($\text{mm}$).
