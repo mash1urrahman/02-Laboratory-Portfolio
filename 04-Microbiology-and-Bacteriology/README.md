@@ -88,5 +88,3 @@
 | ***Pseudomonas aeruginosa*** | Gram ($-$) rod | $-$ | $-$ | $-$ | $-$ | $+$ | $+$ | $+$ | $-$ |
 | ***Staphylococcus aureus*** | Gram ($+$) cocci in clusters | $+$ (A) | $-$ | $+$ | $+$ | $-$ | $+$ | $-$ | $+$ |
 | ***Bacillus subtilis*** | Gram ($+$) endospore rod | $-$ | $-$ | $-$ | $+$ | $+$ | $+$ | var | $-$ |
-
----
